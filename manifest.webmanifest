@@ -1,11 +1,11 @@
 {
-  "name": "shifttimes",
-  "short_name": "shifttimes",
+  "name": "shifttimes-teacher",
+  "short_name": "shifttimes-teacher",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
   "scope": "./",
-  "start_url": "https://teacher.axishineno.net",
+  "start_url": "./",
   "icons": [
     {
       "src": "assets/icons/icon-72x72.png",
